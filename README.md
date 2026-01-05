@@ -1,13 +1,13 @@
 ## Hi there 👋 I'm Pravan Dasari
 
 🎓 **B.Tech CSE Student (2023–2027)** at SRKR Engineering College  
-💻 **Aspiring Software Engineer | Web & ML Enthusiast**  
+💻 **Aspiring Software Engineer | Web Enthusiast**  
 🎯 Focused on DSA, Full-Stack Development, and GATE 2027 preparation
 
 ---
 
 ### 👨‍💻 About Me
-- I enjoy solving **DSA problems in Python**
+- I enjoy solving **DSA problems in Java**
 - Passionate about **building real-world projects**
 - Currently strengthening my **problem-solving & system fundamentals**
 - Interested in **Backend, MERN stack, and AI-based applications**
