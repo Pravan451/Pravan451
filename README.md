@@ -1,16 +1,81 @@
-## Hi there 👋
+## Hi there 👋 I'm Pravan Dasari
 
-<!--
-**Pravan451/Pravan451** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech CSE Student (2023–2027)** at SRKR Engineering College  
+💻 **Aspiring Software Engineer | Web & ML Enthusiast**  
+🎯 Focused on DSA, Full-Stack Development, and GATE 2027 preparation
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- I enjoy solving **DSA problems in Python**
+- Passionate about **building real-world projects**
+- Currently strengthening my **problem-solving & system fundamentals**
+- Interested in **Backend, MERN stack, and AI-based applications**
+
+---
+
+### 🚀 Currently Working On
+- 📌 Data Structures & Algorithms (LeetCode + GATE-oriented)
+- 📌 MERN Stack Project 
+- 📌 Improving backend development skills
+- 📌 Preparing seriously for **GATE 2027 (CSE)**
+
+---
+
+### 🌱 Currently Learning
+- Advanced DSA & Algorithms
+- Backend Development (Node.js, Express)
+- Database design (MongoDB, SQL)
+
+
+---
+
+### 🛠️ Tech Stack
+**Languages:**  
+- Java, Python, C, JavaScript, SQL  
+
+**Frontend:**  
+- HTML, CSS, JavaScript, React 
+
+**Backend:**  
+- Node.js, Express.js (learning), Spring Boot
+
+**Databases:**  
+- MongoDB, MySQL  
+
+**Tools & Platforms:**  
+- Git & GitHub  
+- VS Code  
+- Postman  
+- Intellij
+---
+
+### 📂 Projects
+- 🔥 **Gas Leakage Detection System** – IoT-based safety system using gas sensors, alerts, and real-time monitoring
+- 
+- 🎬 **Movie Booking Platform** – HTML, CSS, JavaScript (Frontend-only)
+- 🌦️ **Weather Flow** – React + OpenWeatherMap API
+
+
+---
+
+### 🤝 Looking To Collaborate On
+- Full Stack development projects
+- Beginner-friendly open-source projects
+- MERN / Java Based applications
+
+---
+
+### 📫 How to Reach Me
+- 📧 Email: **pravankumar027401@gmail.com**
+- 💼 LinkedIn: *https://www.linkedin.com/in/pravankumar/*
+- 🧠 LeetCode: *https://leetcode.com/u/pravan789/*
+
+---
+
+### ⚡ Fun Fact
+I believe **consistency beats motivation**, and I code even when I feel stuck.
+
+---
+
+⭐ _If you like my work, consider starring my repositories!_
