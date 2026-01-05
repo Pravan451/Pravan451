@@ -12,6 +12,11 @@
 - Currently strengthening my **problem-solving & system fundamentals**
 - Interested in **Backend, MERN stack, and AI-based applications**
 
+### 🏃‍♂️ Beyond Coding
+- Marathon runner 🏅 — participate every year
+- Completed **10 KM run** at **East Hyderabad Marathon**
+- Believe in consistency, endurance, and long-term growth — in both fitness and coding
+
 ---
 
 ### 🚀 Currently Working On
