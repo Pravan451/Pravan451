@@ -58,8 +58,8 @@
 ### 📂 Projects
 🔥 Gas Leakage Detection System
  - Description: IoT-based safety system that detects gas leakage and sends alerts with real-time monitoring.
- - 🔗 Live Demo: https://your-live-url.vercel.app
- - 💻 GitHub Repo: https://github.com/PravanDasari/gas-leakage-detection
+ - 🔗 Live Demo: https://gas-leakge-detection.vercel.app
+ - 💻 GitHub Repo: https://github.com/Pravan451/Gas-leakge-detection
  - 🛠 Tech: React, Node.js, Express, MongoDB, IoT Sensors
  - 🎬 **Movie Booking Platform** – HTML, CSS, JavaScript (Frontend-only)
  - 🌦️ **Weather Flow** – React + OpenWeatherMap API
