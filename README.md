@@ -56,10 +56,13 @@
 ---
 
 ### 📂 Projects
-- 🔥 **Gas Leakage Detection System** – IoT-based safety system using gas sensors, alerts, and real-time monitoring
-- 
-- 🎬 **Movie Booking Platform** – HTML, CSS, JavaScript (Frontend-only)
-- 🌦️ **Weather Flow** – React + OpenWeatherMap API
+🔥 Gas Leakage Detection System
+ - Description: IoT-based safety system that detects gas leakage and sends alerts with real-time monitoring.
+ - 🔗 Live Demo: https://your-live-url.vercel.app
+ - 💻 GitHub Repo: https://github.com/PravanDasari/gas-leakage-detection
+ - 🛠 Tech: React, Node.js, Express, MongoDB, IoT Sensors
+ - 🎬 **Movie Booking Platform** – HTML, CSS, JavaScript (Frontend-only)
+ - 🌦️ **Weather Flow** – React + OpenWeatherMap API
 
 
 ---
@@ -74,7 +77,7 @@
 ### 📫 How to Reach Me
 - 📧 Email: **pravankumar027401@gmail.com**
 - 💼 LinkedIn: *https://www.linkedin.com/in/pravankumar/*
-- 🧠 LeetCode: *https://leetcode.com/u/pravan789/*
+- 🧠 LeetCode:*https://leetcode.com/u/pravan789/*
 
 ---
 
