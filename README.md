@@ -69,7 +69,8 @@
 - Handled **CORS & cross-domain authentication** in production
 - Deployed frontend & backend on **Render**, database on **MongoDB Atlas**
 - 🛠 Tech: React (Vite), Node.js, Express, MongoDB, Socket.IO, JWT  
-- 🌐 Live Demo: https://chat-app1-5vrv.onrender.com  
+- 🌐 Live Demo: https://chat-app-1-kdzf.onrender.com/
+- 💻 GitHub Repo: https://github.com/Pravan451/Chat-App
 
 🔥 🎬 **Movie Booking Platform** – HTML, CSS, JavaScript (Frontend-only)
 🔥 🌦️ **Weather Flow** – React + OpenWeatherMap API
