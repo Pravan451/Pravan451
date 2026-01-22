@@ -61,9 +61,18 @@
  - 🔗 Live Demo: https://gas-leakge-detection.vercel.app
  - 💻 GitHub Repo: https://github.com/Pravan451/Gas-leakge-detection
  - 🛠 Tech: React, Node.js, Express, MongoDB, IoT Sensors
- - 🎬 **Movie Booking Platform** – HTML, CSS, JavaScript (Frontend-only)
- - 🌦️ **Weather Flow** – React + OpenWeatherMap API
+ 
+🔥 **Real-Time Chat Application (MERN + Socket.IO)**  
+- Built a full-stack real-time chat application with secure authentication  
+- Implemented **JWT-based auth using HTTP-only cookies**
+- Enabled **real-time messaging** using Socket.IO
+- Handled **CORS & cross-domain authentication** in production
+- Deployed frontend & backend on **Render**, database on **MongoDB Atlas**
+- 🛠 Tech: React (Vite), Node.js, Express, MongoDB, Socket.IO, JWT  
+- 🌐 Live Demo: https://chat-app1-5vrv.onrender.com  
 
+🔥 🎬 **Movie Booking Platform** – HTML, CSS, JavaScript (Frontend-only)
+🔥 🌦️ **Weather Flow** – React + OpenWeatherMap API
 
 ---
 
