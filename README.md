@@ -15,7 +15,7 @@
 ### 🏃‍♂️ Beyond Coding
 - Marathon runner 🏅 — participate every year
 - Completed **10 KM run** at **East Hyderabad Marathon** in Dec-2025
-- Completed **10 KM run** at **East Hyderabad Marathon** in Dec-2024
+- Completed **5 KM run** at **East Hyderabad Marathon** in Dec-2024
 - Believe in consistency, endurance, and long-term growth — in both fitness and coding
 
 ---
@@ -87,6 +87,7 @@
 
 ### 📫 How to Reach Me
 - 📧 Email: **pravankumar027401@gmail.com**
+- 📧 Email: **pravandasari027401@gmail.com**
 - 💼 LinkedIn: *https://www.linkedin.com/in/pravankumar/*
 - 🧠 LeetCode:*https://leetcode.com/u/pravan789/*
 
