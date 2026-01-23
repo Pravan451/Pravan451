@@ -14,7 +14,8 @@
 
 ### 🏃‍♂️ Beyond Coding
 - Marathon runner 🏅 — participate every year
-- Completed **10 KM run** at **East Hyderabad Marathon**
+- Completed **10 KM run** at **East Hyderabad Marathon** in Dec-2025
+- Completed **10 KM run** at **East Hyderabad Marathon** in Dec-2024
 - Believe in consistency, endurance, and long-term growth — in both fitness and coding
 
 ---
